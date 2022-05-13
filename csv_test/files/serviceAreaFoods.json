@@ -1,0 +1,5545 @@
+{ 
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00099" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "영양더덕산채비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "산청"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "영양더덕산채비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00171" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "베이컨 김치 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "공주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "당진영덕고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "베이컨 김치 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "상주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00158" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "새송이 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "남성주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "새송이 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00003" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "제주고사리육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "기흥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "제주고사리육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00191" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "완주한우불고기철판비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "이서"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "완주한우불고기철판비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00161" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "엄나무닭개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "진안마이산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "익산포항고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "엄나무닭개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "익산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00142" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "청통한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "청통"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "익산포항고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "청통한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "익산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00091" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "비빔된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "문산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "비빔된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00036" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "죽암왕갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "죽암"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "죽암왕갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00147" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "오미자 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "문경"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "오미자 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00071" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "뽀글이돼지찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "평사"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "뽀글이돼지찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00055" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦5,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "콩나물국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "주암"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "콩나물국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00102" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "뚝배기 동태탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "신탄진"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "뚝배기 동태탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00061" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "해물짬뽕밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "백양사"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "해물짬뽕밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00117" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "서산어리굴젓백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "서산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "서산어리굴젓백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00127" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "충주 사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "충주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "충주 사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00152" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦ 6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "고성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00069" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦3,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "평양온반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "칠곡"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "평양온반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00085" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "진영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00041" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "우거지사골국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "음성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "우거지사골국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00079" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "안동"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00110" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "알밥우동정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "알밥우동정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00002" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "대나무잎영양맑은곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "죽전"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "대나무잎영양맑은곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00172" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "제육돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "부여백제"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서천공주고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "제육돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00098" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한방우(牛)불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "산청"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한방우(牛)불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00109" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥굴밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "대천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥굴밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00162" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "진안인삼오리고기덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "진안마이산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "익산포항고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "진안인삼오리고기덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "포항"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00016" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "창녕양파제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "영산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "창녕양파제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00090" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "현풍"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로지선"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "현풍"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00120" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "낙지덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "선산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "낙지덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00141" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "영천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "익산포항고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "익산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00101" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "표고버섯 우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "평창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "표고버섯 우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00148" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "황태해장국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "원주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "황태해장국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00060" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦ 6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "애호박찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "백양사"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "애호박찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00037" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦10,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "도리뱅뱅 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "금강"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "도리뱅뱅 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00054" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "청매실재첩비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "섬진강"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "청매실재첩비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00128" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "얼큰 새뱅이 해물순두부"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "충주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "얼큰 새뱅이 해물순두부"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00070" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "대추영양갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "경산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "대추영양갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00068" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "지례흑돼지 고추장불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "추풍령"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "지례흑돼지 고추장불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00118" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "전주콩나물국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "군산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "전주콩나물국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00084" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "진영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00078" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "건천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00138" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "홍성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00151" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "매생이탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "서천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "매생이탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00040" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "오리 묵은지 치즈 가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "음성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "오리 묵은지 치즈 가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00005" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "안성국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "안성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안성국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00173" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯닭계장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "부여백제"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서천공주고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯닭계장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "공주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00154" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "덕평소고기국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "덕평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "덕평소고기국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00156" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "등심돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "함평나비"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "무안광주ㆍ88올림픽고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "등심돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "무안"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00187" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "함안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00193" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "오삼불고기정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "오수"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "순천완주고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "오삼불고기정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "광양"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00121" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "선산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00015" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부 청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "화성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부 청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00108" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥굴밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "대천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥굴밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00129" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "함양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00034" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "병천 순대국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "천안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "병천 순대국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00115" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "무진장 흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "덕유산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "무진장 흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00149" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "원주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00100" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "올리브 등심돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "평창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "올리브 등심돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00140" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "영천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "익산포항고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "포항"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00073" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "전주비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "거창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "무안광주ㆍ88올림픽고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "전주비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대구"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00135" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "시래기 돌솥밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "옥계"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "동해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "시래기 돌솥밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "속초"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00083" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "장유"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해제2지선고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "냉정"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00233" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "표고버섯 우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "금왕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "평택제천고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "표고버섯 우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "음성"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00067" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "얼큰 칼제비"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "추풍령"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "얼큰 칼제비"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00024" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "문막"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00004" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "안성국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "안성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안성국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00174" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "예산사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "예산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "당진영덕고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "예산사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "청원"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00155" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "함평한우버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "함평나비"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "무안광주ㆍ88올림픽고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함평한우버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대구"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00153" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "고성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00194" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "임실 치즈 철판 비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "오수"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "순천완주고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "임실 치즈 철판 비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "전주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00122" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "고창추어탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "고창고인돌"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "고창추어탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00014" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "수제돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "화성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "수제돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00107" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "경주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00169" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "닭가슴살 퓨전 포도밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "안성맞춤"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "평택제천고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "닭가슴살 퓨전 포도밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "음성"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00160" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "남성주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00035" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "죽암"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00056" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "개똥쑥강된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "곡성기차마을"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "개똥쑥강된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00116" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "서산어리굴젓백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "서산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "서산어리굴젓백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00072" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "찌글이 된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "칠곡"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "찌글이 된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00136" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "구정"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "동해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "속초"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00025" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "황태국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "동해"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "동해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "황태국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "동해"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00082" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "국산콩된장뚝배기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "군위"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "국산콩된장뚝배기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00232" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "금왕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "평택제천고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "평택"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00106" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "행담도 집밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "행담도"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "행담도 집밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00051" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "복분자낙지연포탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "정읍"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "복분자낙지연포탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00013" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "문막"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00123" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "고창장어탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "고창고인돌"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "고창장어탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00225" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹돈애호박 고추장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹차"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹돈애호박 고추장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00045" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥알밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "여산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥알밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00113" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "수제 등심 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "단양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "수제 등심 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00007" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "곤지암 소머리 국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "이천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "곤지암 소머리 국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00081" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "의성마늘순살돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "군위"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "의성마늘순살돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00133" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "고구마 치즈 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "동명"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "고구마 치즈 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00175" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "예산사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "예산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "당진영덕고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "예산사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "상주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00231" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "더덕 산채비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "마장복합"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "더덕 산채비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00195" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "속리산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "당진영덕고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "청원"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00185" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "꼬막 비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "진주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "꼬막 비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00089" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "대구육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "현풍"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로지선"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "대구육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대구"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00165" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "강된장보리돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "안성맞춤"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "평택제천고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "강된장보리돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "평택"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00143" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "된장뚝배기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "와촌"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "익산포항고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "된장뚝배기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "포항"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00124" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "함평한우우거지국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "함평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함평한우우거지국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00094" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "명품 연근 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "칠서"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "명품 연근 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00050" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "입장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00012" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "수제돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "여주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "수제돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00186" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "영양굴국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "함안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "영양굴국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00074" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "전주비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "거창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "무안광주ㆍ88올림픽고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "전주비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "무안"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00044" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "수제순살돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "여산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "수제순살돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00224" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹돈애호박 고추장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹차"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹돈애호박 고추장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00064" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00114" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "무진장 흑돼지 치즈돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "덕유산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "무진장 흑돼지 치즈돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00105" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼영양가마솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼랜드"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼영양가마솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00047" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한방닭곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "옥천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한방닭곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00080" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "안동간고등어정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "안동"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안동간고등어정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00134" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "짜글이 된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "동명"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "짜글이 된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00196" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "다슬기버섯된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "황전"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "순천완주고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "다슬기버섯된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "광양"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00027" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "홍천강"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00030" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "망향"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00088" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우소머리곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "통도사"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우소머리곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00006" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "마방장터국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "하남(만남)"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "마방장터국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00144" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "괴산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00033" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "병천순대국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "천안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "병천순대국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00011" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦4,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "여주쌀 잔치국수"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "여주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "여주쌀 잔치국수"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00097" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "새싹삼(돌솥)힐링비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "사천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "새싹삼(돌솥)힐링비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00058" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산흑돼지불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "무안광주ㆍ88올림픽고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산흑돼지불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대구"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00125" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "함평천지한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "함평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함평천지한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00163" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우소머리국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "김천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우소머리국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00053" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "재첩국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "섬진강"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "재첩국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00130" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "백연밥상"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "함양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "백연밥상"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00048" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 고등어조림"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "황간"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 고등어조림"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00104" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼신촌설렁탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼랜드"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼신촌설렁탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00063" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "곡성기차마을"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00001" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "말죽거리소고기국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "서울만"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "말죽거리소고기국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00043" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "벌곡"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로지선"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00197" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦9,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "불고기백반정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "황전"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "순천완주고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "불고기백반정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "전주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00111" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "곤드레열무돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "곤드레열무돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00139" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "홍성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00077" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "불고기 모듬버섯전골"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "건천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "불고기 모듬버섯전골"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00028" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "소고기 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "치악"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "소고기 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00150" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "장터국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "서천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "장터국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00009" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "용인"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00119" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "울외비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "군산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "서해안고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "울외비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00131" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000 "
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯 닭갈비 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯 닭갈비 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00145" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "샐러드 돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "괴산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "샐러드 돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00019" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦10,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "한우 떡더덕스테이크"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "횡성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "한우 떡더덕스테이크"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00038" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "뚝배기 닭갈비덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "오창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "뚝배기 닭갈비덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00010" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥된장비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "용인"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥된장비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00086" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦4,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "사골 육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "언양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "사골 육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00032" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부 청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "옥산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부 청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00190" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "완주한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "이서"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "완주한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00052" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦8,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "산외한우뚝배기불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "정읍"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "산외한우뚝배기불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00059" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산수제마늘돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "무안광주ㆍ88올림픽고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산수제마늘돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "무안"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00126" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "매운낙지정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "청원"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "매운낙지정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00096" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "섬진강재첩국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "사천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "남해고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "섬진강재첩국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00049" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦10,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "갈치조림 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "황간"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "갈치조림 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00159" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "능이버섯국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "화서"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "당진영덕고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "능이버섯국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "상주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00062" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "꼬막돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "주암"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "꼬막돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00103" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "해물된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "옥천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "해물된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00112" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "단양마늘 약초 갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "단양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "단양마늘 약초 갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00042" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌게"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "벌곡"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "호남고속도로지선"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌게"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대전"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00132" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "정통수제 마늘돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "양산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "정통수제 마늘돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00008" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "매실 제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "이천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "매실 제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00018" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦22,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "횡성한우스테이크"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "횡성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "영동고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "횡성한우스테이크"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00146" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "해물영양솥밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "문경"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중부내륙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "해물영양솥밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00039" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "엄나무닭개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "오창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "통영대전ㆍ중부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "엄나무닭개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00184" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "수제왕돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "김천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "경부고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "수제왕돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00029" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦7,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "쇠고기 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "치악"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "중앙고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "쇠고기 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaFoods/B00170" : { 
+    "http://data.ex.co.kr:80/link/def/salePrice" : [ { 
+      "type" : "literal" ,
+      "value" : "￦6,000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/batchMenu" : [ { 
+      "type" : "literal" ,
+      "value" : "베이컨 김치 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/serviceAreaName" : [ { 
+      "type" : "literal" ,
+      "value" : "공주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/routeName" : [ { 
+      "type" : "literal" ,
+      "value" : "당진영덕고속도로"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "베이컨 김치 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "청원"
+    }
+     ]
+  }
+}

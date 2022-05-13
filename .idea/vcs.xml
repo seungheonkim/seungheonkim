@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AI_GYM_trainer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calorie_Maniac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mediapipe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personal_trainer-using-mediapipe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyecharts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seungheonkim" vcs="Git" />
+  </component>
+</project>

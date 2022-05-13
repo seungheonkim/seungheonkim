@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>{{title}} 리뷰 / 평점: {{avg_score}}</h3>
+<table border="1">
+    <tr>
+        <th>review</th>
+        <th>score</th>
+        <th>writer</th>
+        <th>긍정/부정</th>
+    </tr>
+    {% for row in res_df %}
+    <tr>
+        {% for i in row %}
+        <td>{{i}}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

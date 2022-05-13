@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>회원정보 수정 Page</title>
+</head>
+<body>
+<h3>{{session.loginId}}님, 수정할 회원정보를 기입하세요</h3>
+<form action="/member/edit_proc" method="post">
+    ID: <input type="text" name="id" value="{{session.loginId}}" readonly="readonly"><br>
+    이름: <input type="text" name="name" value="{{session.name}}" readonly="readonly"><br>
+    비밀번호: <input type="text" name="pwd" placeholder="new password"><br>
+    이메일: <input type="text" name="email" placeholder="{{edit_email}}"><br>
+    <input type="submit" value="수정">
+    <button type="submit" value="취소"><a href="/member/mypage">취소</a></button>
+</form>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MyPage</title>
+</head>
+<body>
+{% if session.flag == True %}
+{{session.loginId}}님의 회원정보 페이지입니다.<br>
+내정보<br>
+id: {{session.loginId}}<br>
+name: {{session.name}}<br>
+email: {{session.email}}<br>
+<a href="/member/edit_form">내정보 수정</a><br>
+<a href="/member/mybus">즐겨찾기 버스 목록</a><br>
+<a href="/member/logout_proc">로그아웃</a><br>
+<a href="/member/delete_proc">탈퇴</a><br>
+<a href="/">처음으로</a><br>
+{% else %}
+<a href="/member/login_form">로그인</a><br>
+
+{% endif %}
+</body>
+</html>

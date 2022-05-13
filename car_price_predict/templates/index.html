@@ -1,0 +1,47 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>내차 중고 시세 알아보기</h3>
+<form action="/test" method="post">
+    year:<input type="text" name="year"><br/>
+    mileage:<input type="text" name="mileage"><br/>
+    tax:<input type="text" name="tax"><br/>
+    mpg:<input type="text" name="mpg"><br/>
+
+    brand:<select name="brand">
+    {% for idx, b in enumerate(br) %}
+    <option value="{{idx}}">{{b}}</option>
+    {% endfor %}
+    </select>
+
+    models:<select name="models">
+    {% for idx, b in enumerate(mo) %}
+    <option value="{{idx}}">{{b}}</option>
+    {% endfor %}
+    </select>
+
+    engine size:<select name="engine">
+    {% for idx, b in enumerate(en) %}
+    <option value="{{b}}">{{b}}</option>
+    {% endfor %}
+    </select>
+
+    기아 종류:<select name="tr">
+    {% for idx, b in enumerate(tr) %}
+    <option value="{{idx}}">{{b}}</option>
+    {% endfor %}
+    </select>
+
+    연료 종류:<select name="fuel">
+    {% for idx, b in enumerate(fuel) %}
+    <option value="{{idx}}">{{b}}</option>
+    {% endfor %}
+    </select>
+
+    <input type="submit" value="예상가격보기">
+</form>
+</body>
+</html>

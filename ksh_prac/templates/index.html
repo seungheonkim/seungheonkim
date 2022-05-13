@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main</title>
+</head>
+<body>
+{% if session['flag'] == True %}
+<h3> 안녕하세요 ! {{session.login_id}} 님!</h3>
+<p><a href="/customer/myinfo">내정보페이지</a></p>
+<p><a href="/customer/logout">로그아웃</a></p>
+{% else %}
+<h3> 안녕하세요 ! 환영합니다~!</h3>
+<p><a href="/customer/join">회원가입</a></p>
+<p><a href="/customer/login">로그인</a></p>
+{% endif %}
+</body>
+</html>

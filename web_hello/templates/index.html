@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>버스 노선 정보</title>
+</head>
+<body>
+<h2>버스 노선 정보 검색</h2>
+<form action="/bus/businfo" method="post">
+    검색할 버스번호: <input type="text" name="busnm">
+    <input type="submit" value="검색">
+</form>
+<br>
+{% if session.flag == True %}
+<a href="/member/mypage">내정보</a><br>
+<a href="/member/logout_proc">로그아웃</a><br>
+<a href="/member/delete_proc">탈퇴</a><br>
+{% else %}
+<a href="/member/login_form">로그인</a><br>
+{% endif %}
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>StationInfo</title>
+</head>
+<body>
+<h3>StationInfo</h3>
+<table border="1">
+    <tr>
+        <th>순번</th>
+        <th>정류소</th>
+        <th>방향</th>
+        <th>x좌표</th>
+        <th>y좌표</th>
+    </tr>
+    {% for s in res %}
+    <tr>
+        <td>{{s.seq}}</td>
+        <td>{{s.name}}</td>
+        <td>{{s.direction}}</td>
+        <td>{{s.x}}</td>
+        <td>{{s.y}}</td>
+    </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

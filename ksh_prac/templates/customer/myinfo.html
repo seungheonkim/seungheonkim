@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MyInfo</title>
+    <script>
+        function deleteMyInfo(){
+            location.href = '/customer/deleteMyInfo'
+        }
+    </script>
+</head>
+<body>
+<h3>{{c.id}}님의 정보</h3>
+<form action="/customer/edit" method="post">
+    name: <input type="text" name="name" value="{{c.name}}" readonly><br>
+    pwd: <input type="password" name="pwd" value="{{c.pwd}}"><br>
+    email: <input type="text" name="email" value="{{c.email}}"><br>
+    <input type="submit" value="수정">
+    <input type="button" value="삭제" onclick="deleteMyInfo()">
+</form>
+</body>
+</html>

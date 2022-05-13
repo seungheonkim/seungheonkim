@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>수정 결과 페이지</title>
+</head>
+<body>
+<h3>{{msg}}</h3>
+{% if session.flag == True %}
+<a href="/member/mypage">내 정보</a><br>
+{% endif %}
+</body>
+</html>
